@@ -1,0 +1,48 @@
+span.header{
+    color: rgb(91, 43, 221);
+}
+div.header{
+    background-color: lightsteelblue;
+    margin-top: 0em;
+    text-align: center;
+    height: 50px;
+}
+h1.header{
+    padding-top: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+div.Main{
+    height: 3200px;
+}
+
+div.cards{
+    font-family:'Gill Sans', Calibri, 'Trebuchet MS', sans-serif;
+    outline: 2px solid lightgray;
+    text-align: center;
+    line-height: 0em;
+    position: relative;
+    float: left;
+    left: 3%;
+    width: 30%;
+    margin: 10px;
+}
+
+h3.cards{
+    color: rgb(91, 43, 221);
+}
+div.info{
+   padding-top: 3px;
+    outline: 1px solid lightgray;
+    height: 100px;
+}
+
+div.footer{
+    background-color: lightsteelblue;
+    text-align: center;
+    margin-top: 100px;
+}
+
+p.footer{
+    padding: 1ch;
+}
